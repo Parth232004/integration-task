@@ -1,0 +1,11 @@
+{
+    "summarizer": true,
+    "cognitive_engine": true,
+    "action_responder": true,
+    "insight_dashboard": true,
+    "rl_feedback": true,
+    "retry_count": 1,
+    "timeout_seconds": 10
+  }
+
+  
