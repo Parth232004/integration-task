@@ -1,7 +1,3 @@
-Here’s the **updated README.md** with a **pipeline flow diagram** for GitHub.
-
----
-
 # SynapseCore: Remote Agent Integration Hub
 
 SynapseCore is a **modular AI agent orchestrator** that connects multiple independent agents into a single functional pipeline.
